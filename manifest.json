@@ -1,0 +1,14 @@
+{
+  "name": "המנדט",
+  "short_name": "המנדט",
+  "description": "סימולטור קריירה פוליטית ישראלית",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#050505",
+  "theme_color": "#050505",
+  "lang": "he",
+  "dir": "rtl",
+  "icons": [
+    { "src": "icons/favicon.svg", "sizes": "any", "type": "image/svg+xml" }
+  ]
+}
